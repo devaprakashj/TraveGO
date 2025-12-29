@@ -6,7 +6,7 @@ A modern, full-stack travel booking web application built with React.js, Tailwin
 
 ## ✨ Live Demo
 
-🔗 **[View Live Site](https://travego.vercel.app)** (Deploy on Vercel)
+🔗 **[View Live Site](https://devaprakashj.github.io/TraveGO/)**
 
 ---
 
