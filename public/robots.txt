@@ -1,0 +1,32 @@
+# robots.txt for TraveGo Travel Booking Platform
+# Developed by Devaprakash J - AI & ML Engineer, Full Stack Developer
+# Contact: devaprakashofficial@gmail.com | LinkedIn: linkedin.com/in/devaprakashj/
+
+User-agent: *
+Allow: /
+Allow: /trips
+Allow: /deals
+Allow: /contact
+
+# Sitemap location
+Sitemap: https://travego.dev/sitemap.xml
+
+# Crawl delay
+Crawl-delay: 1
+
+# Disallow admin or private routes (if any)
+Disallow: /api/
+Disallow: /admin/
+
+# Allow all search engine bots
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: Slurp
+Allow: /
+
+User-agent: DuckDuckBot
+Allow: /
