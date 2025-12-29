@@ -4,19 +4,12 @@
 
 User-agent: *
 Allow: /
-Allow: /trips
-Allow: /deals
-Allow: /contact
 
 # Sitemap location
-Sitemap: https://travego.dev/sitemap.xml
+Sitemap: https://devaprakashj.github.io/TraveGO/sitemap.xml
 
 # Crawl delay
 Crawl-delay: 1
-
-# Disallow admin or private routes (if any)
-Disallow: /api/
-Disallow: /admin/
 
 # Allow all search engine bots
 User-agent: Googlebot
